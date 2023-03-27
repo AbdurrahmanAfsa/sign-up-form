@@ -8,4 +8,9 @@ body{
 .photoSide{
     background-image: url("./halie-west-25xggax4bSA-unsplash.jpg");
     background-size: cover;
+    flex-grow: 1;
+}
+
+.formSide{
+    flex-grow: 3;
 }
