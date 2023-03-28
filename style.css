@@ -33,6 +33,10 @@ body{
     width: calc(100%/3);
 }
 
+.text{
+    padding: 5%;
+}
+
 .form-container{
     display: flex;
     gap: 20%;
