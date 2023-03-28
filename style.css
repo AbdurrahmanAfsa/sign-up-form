@@ -57,6 +57,12 @@ form{
     width: 150%;
 }
 
+input{
+    border:1px solid #E5E7EB;
+    border-radius: 3px;
+    height: 20px;
+}
+
 .create{
     padding: 20px 5%;
 }
