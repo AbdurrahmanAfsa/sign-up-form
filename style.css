@@ -37,3 +37,9 @@ body{
     display: flex;
     gap: 20%;
 }
+
+.first-name ,.last-name ,.phone ,.password ,.confirm ,.email{
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+}
