@@ -15,7 +15,7 @@ body{
 
 .formSide{
     flex-grow: 2;
-    padding: 5%;
+    background-color: #F9FAFB;
 }
 
 .title h1{
