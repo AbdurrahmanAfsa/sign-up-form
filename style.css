@@ -53,3 +53,7 @@ form{
     flex-direction: column;
     margin: 10%;
 }
+
+.create{
+    padding: 5%;
+}
