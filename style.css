@@ -40,7 +40,7 @@ body{
 form{
     background-color: white;
     padding: 5%;
-    box-shadow: 0px 5px 10px rgba(0, 0, 255, .2);
+    box-shadow: 0px 5px 5px rgba(0, 0, 255, .2);
 }
 
 .form-container{
@@ -55,5 +55,5 @@ form{
 }
 
 .create{
-    padding: 5%;
+    padding: 2% 5%;
 }
