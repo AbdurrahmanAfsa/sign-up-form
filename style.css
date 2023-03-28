@@ -55,12 +55,12 @@ form{
 }
 
 .create{
-    padding: 2% 5%;
+    padding: 20px 5%;
 }
 
 .create button{
     background-color: #596D48;
-    padding: 1% 4%;
+    padding: 10px 30px;
     border-radius: 10px;
     border: none;
     color: white;
